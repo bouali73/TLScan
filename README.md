@@ -1,2 +1,3 @@
 # TLScan
-# Automatisation des scans SSL/TLS sur les sites web
+# Automatisation des scan de vulnérablités SSL/TLS sur les sites web
+
